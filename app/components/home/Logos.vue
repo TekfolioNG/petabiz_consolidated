@@ -66,6 +66,8 @@ import vmware from '~/assets/img/vmware.png'
 const firstRow = [
   { name: 'Oracle', src: oracle },
   { name: 'Dell EMC', src: dell },
+  { name: 'Airspan', src: airspan },
+  { name: 'Axis Communications', src: axis },
   { name: 'Microsoft', src: microsoft },
   { name: 'Huawei', src: huawei },
   { name: 'HP', src: hp },
@@ -80,17 +82,15 @@ const secondRow = [
   { name: 'ESET', src: eset },
   { name: 'Quest', src: quest },
   { name: 'Kaspersky', src: kaspersky },
-  { name: 'NetApp', src: netapp },
-  { name: 'Fortinet', src: fortinet },
-  { name: 'Palo Alto Networks', src: paloalto }
+  { name: 'NetApp', src: netapp }
 ]
 
 const thirdRow = [
   { name: 'CommScope', src: commscope },
   { name: 'Bosch', src: bosch },
   { name: 'Pelco', src: pelco },
-  { name: 'Airspan', src: airspan },
-  { name: 'Axis Communications', src: axis }
+  { name: 'Fortinet', src: fortinet },
+  { name: 'Palo Alto Networks', src: paloalto }
 ]
 </script>
 
