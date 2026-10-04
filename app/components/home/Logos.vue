@@ -41,6 +41,7 @@
 </template>
 
 <script setup>
+import airspan from '~/assets/img/airspan.png'
 import axis from '~/assets/img/axis.png'
 import bosch from '~/assets/img/bosch.png'
 import commscope from '~/assets/img/commscope.png'
@@ -88,6 +89,7 @@ const thirdRow = [
   { name: 'CommScope', src: commscope },
   { name: 'Bosch', src: bosch },
   { name: 'Pelco', src: pelco },
+  { name: 'Airspan', src: airspan },
   { name: 'Axis Communications', src: axis }
 ]
 </script>
